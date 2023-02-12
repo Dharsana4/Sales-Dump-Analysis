@@ -1,6 +1,6 @@
 # Sales-Dump-Analysis
 
-Here's a Data-Analysis project of the global superstore of 2016 using Power-BI.
+Here's a Data-Analysis project of the superstore in 2022 using Power-BI.
 
 Tools and Technology used-
 Microsoft Power BI
